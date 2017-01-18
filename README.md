@@ -1,1 +1,2 @@
-Buildfiles for mysql + docker
+## Set up MySQL with Docker
+-----------------------------------

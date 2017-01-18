@@ -1,11 +1,12 @@
 # This file creates a container that runs MySQL Server
 #
-# Author: Paul Czarkowski
-# Date: 01/05/2013
+# Author: Babatunde Adeyemi
+# Original Author: Paul Czarkowski
+# Date: 17/01/2017
 
 
 FROM centos
-MAINTAINER Paul Czarkowski "paul@paulcz.net"
+MAINTAINER Babatunde Adeyemi "me@tundeadeyemi.com"
 
 RUN yum -y install mysql-server
 
