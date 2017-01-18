@@ -1,7 +1,7 @@
 #!/bin/sh
 
-USERNAME=${USERNAME:-'ruser'}
-PASSWORD=${PASSWORD:-'strategic-kittens411'}
+USERNAME=${USERNAME:-'mysql'}
+PASSWORD=${PASSWORD:-'mysql'}
 DATABASE=${DATABASE:-'*'}
 REMOTE=${REMOTE:-'%'}
 
